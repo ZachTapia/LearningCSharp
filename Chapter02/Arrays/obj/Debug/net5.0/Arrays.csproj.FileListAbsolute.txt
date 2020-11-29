@@ -1,0 +1,16 @@
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.csprojAssemblyReference.cache
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\zacht\Desktop\C#\Code\Chapter02\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
