@@ -1,0 +1,31 @@
+What type would you choose for the following "numbers"?
+
+1. A telephone number
+string
+
+2. A person's height
+string
+
+3. Age
+uint
+
+4. Salary
+int
+
+5. ISBN
+string
+
+6. Price
+double
+
+7. Shipping weight
+float
+
+8. Population
+long
+
+9. Stars in the universe
+long
+
+10. The number of employees, Up to 50k
+int
